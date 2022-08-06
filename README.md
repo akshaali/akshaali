@@ -22,7 +22,7 @@
 <a href="https://twitter.com/akshaali2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaali2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aksha-a-02526517b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aksha-a-02526517b" height="30" width="40" /></a>
 <a href="https://medium.com/@akshaali01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshaali01234" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@akshaali01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshaali01234" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshaali01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@akshaali01234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshaali01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshaali01234" height="30" width="40" /></a>
 </p>
 
