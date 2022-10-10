@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aksha</h1>
 <h3 align="center">A passionate Software developer, proficient in Mobile & Web Development and working on my DS & Algo skills.</h3>
+![](https://komarev.com/ghpvc/?username=akshaali)
+
 
 - 🔭 I’m currently working on **Health Care Application**
 
